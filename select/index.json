@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "時計塔",
+  "base_artist": "Galileo Galilei",
+  "createdAt": "2025-12-14T14:36:07.312720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "時計塔",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/01_時計塔_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "時計塔",
+      "artist": "Galileo Galilei",
+      "has_synced": false,
+      "path": "select/pl_01_時計塔_Galileo_Galilei.txt"
+    }
+  ]
+}
